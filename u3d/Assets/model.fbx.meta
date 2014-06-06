@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9e7efa8690af8754cb37570db317d5b6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature|base
+    100004: Armature|fin1
+    100006: Armature|fin1-b
+    100008: Armature|fin1-i
+    100010: Armature
+    100012: generator
+    100014: node_collider
+    100016: cooling-fins
+    100018: cooling-fins.001
+    100020: cooling-fins.002
+    100022: cooling-fins.003
+    100024: cooling-fins.004
+    100026: cooling-fins.005
+    100028: cooling-fins.006
+    100030: cooling-fins.007
+    100032: base
+    100034: cooling-fins_001
+    100036: cooling-fins_002
+    100038: cooling-fins_003
+    100040: cooling-fins_004
+    100042: cooling-fins_005
+    100044: cooling-fins_006
+    100046: cooling-fins_007
+    100048: fin1
+    100050: fin1-b
+    100052: fin1-i
+    100054: fin2
+    100056: fin2-b
+    100058: fin2-i
+    100060: fin3
+    100062: fin3-b
+    100064: fin3-i
+    100066: fin4
+    100068: fin4-b
+    100070: fin4-i
+    100072: fin5
+    100074: fin5-b
+    100076: fin5-i
+    100078: fin6
+    100080: fin6-b
+    100082: fin6-i
+    100084: fin7
+    100086: fin7-b
+    100088: fin7-i
+    100090: fin8
+    100092: fin8-b
+    100094: fin8-i
+    400000: //RootNode
+    400002: Armature|base
+    400004: Armature|fin1
+    400006: Armature|fin1-b
+    400008: Armature|fin1-i
+    400010: Armature
+    400012: generator
+    400014: node_collider
+    400016: cooling-fins
+    400018: cooling-fins.001
+    400020: cooling-fins.002
+    400022: cooling-fins.003
+    400024: cooling-fins.004
+    400026: cooling-fins.005
+    400028: cooling-fins.006
+    400030: cooling-fins.007
+    400032: base
+    400034: cooling-fins_001
+    400036: cooling-fins_002
+    400038: cooling-fins_003
+    400040: cooling-fins_004
+    400042: cooling-fins_005
+    400044: cooling-fins_006
+    400046: cooling-fins_007
+    400048: fin1
+    400050: fin1-b
+    400052: fin1-i
+    400054: fin2
+    400056: fin2-b
+    400058: fin2-i
+    400060: fin3
+    400062: fin3-b
+    400064: fin3-i
+    400066: fin4
+    400068: fin4-b
+    400070: fin4-i
+    400072: fin5
+    400074: fin5-b
+    400076: fin5-i
+    400078: fin6
+    400080: fin6-b
+    400082: fin6-i
+    400084: fin7
+    400086: fin7-b
+    400088: fin7-i
+    400090: fin8
+    400092: fin8-b
+    400094: fin8-i
+    2300000: //RootNode
+    2300002: generator
+    2300004: node_collider
+    2300006: cooling-fins
+    2300008: cooling-fins.001
+    2300010: cooling-fins.002
+    2300012: cooling-fins.003
+    2300014: cooling-fins.004
+    2300016: cooling-fins.005
+    2300018: cooling-fins.006
+    2300020: cooling-fins.007
+    2300022: cooling-fins_002
+    2300024: cooling-fins_003
+    2300026: cooling-fins_004
+    2300028: cooling-fins_005
+    2300030: cooling-fins_006
+    2300032: cooling-fins_007
+    3300000: //RootNode
+    3300002: generator
+    3300004: node_collider
+    3300006: cooling-fins
+    3300008: cooling-fins.001
+    3300010: cooling-fins.002
+    3300012: cooling-fins.003
+    3300014: cooling-fins.004
+    3300016: cooling-fins.005
+    3300018: cooling-fins.006
+    3300020: cooling-fins.007
+    3300022: cooling-fins_002
+    3300024: cooling-fins_003
+    3300026: cooling-fins_004
+    3300028: cooling-fins_005
+    3300030: cooling-fins_006
+    3300032: cooling-fins_007
+    4300000: generator
+    4300002: node_collider
+    4300004: cooling-fins.007
+    4300006: cooling-fins.006
+    4300008: cooling-fins.005
+    4300010: cooling-fins.004
+    4300012: cooling-fins.003
+    4300014: cooling-fins.002
+    4300016: cooling-fins
+    4300018: cooling-fins.001
+    4300020: cooling-fins_007
+    4300022: cooling-fins_006
+    4300024: cooling-fins_005
+    4300026: cooling-fins_004
+    4300028: cooling-fins_003
+    4300030: cooling-fins_002
+    4300032: cooling-fins_001
+    6400000: //RootNode
+    6400002: generator
+    6400004: node_collider
+    6400006: cooling-fins
+    6400008: cooling-fins.001
+    6400010: cooling-fins.002
+    6400012: cooling-fins.003
+    6400014: cooling-fins.004
+    6400016: cooling-fins.005
+    6400018: cooling-fins.006
+    6400020: cooling-fins.007
+    7400000: extendFins
+    7400002: Armature|extendFins
+    7400004: extendFins
+    7400006: node_collider_scale
+    7400008: extendFinsOnly
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: //RootNode
+    13700002: cooling-fins_001
+    13700004: cooling-fins
+    13700006: cooling-fins_002
+    13700008: cooling-fins_003
+    13700010: cooling-fins_004
+    13700012: cooling-fins_005
+    13700014: cooling-fins_006
+    13700016: cooling-fins_007
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: extendFins
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/base
+        weight: 1
+      - path: Armature/base/fin1-b
+        weight: 1
+      - path: Armature/base/fin1-b/fin1-i
+        weight: 1
+      - path: Armature/base/fin1-b/fin1-i/fin1
+        weight: 1
+      - path: Armature/base/fin2-b
+        weight: 1
+      - path: Armature/base/fin2-b/fin2-i
+        weight: 1
+      - path: Armature/base/fin2-b/fin2-i/fin2
+        weight: 1
+      - path: Armature/base/fin3-b
+        weight: 1
+      - path: Armature/base/fin3-b/fin3-i
+        weight: 1
+      - path: Armature/base/fin3-b/fin3-i/fin3
+        weight: 1
+      - path: Armature/base/fin4-b
+        weight: 1
+      - path: Armature/base/fin4-b/fin4-i
+        weight: 1
+      - path: Armature/base/fin4-b/fin4-i/fin4
+        weight: 1
+      - path: Armature/base/fin5-b
+        weight: 1
+      - path: Armature/base/fin5-b/fin5-i
+        weight: 1
+      - path: Armature/base/fin5-b/fin5-i/fin5
+        weight: 1
+      - path: Armature/base/fin6-b
+        weight: 1
+      - path: Armature/base/fin6-b/fin6-i
+        weight: 1
+      - path: Armature/base/fin6-b/fin6-i/fin6
+        weight: 1
+      - path: Armature/base/fin7-b
+        weight: 1
+      - path: Armature/base/fin7-b/fin7-i
+        weight: 1
+      - path: Armature/base/fin7-b/fin7-i/fin7
+        weight: 1
+      - path: Armature/base/fin8-b
+        weight: 1
+      - path: Armature/base/fin8-b/fin8-i
+        weight: 1
+      - path: Armature/base/fin8-b/fin8-i/fin8
+        weight: 1
+      - path: cooling-fins
+        weight: 1
+      - path: cooling-fins_001
+        weight: 1
+      - path: cooling-fins_002
+        weight: 1
+      - path: cooling-fins_003
+        weight: 1
+      - path: cooling-fins_004
+        weight: 1
+      - path: cooling-fins_005
+        weight: 1
+      - path: cooling-fins_006
+        weight: 1
+      - path: cooling-fins_007
+        weight: 1
+      - path: generator
+        weight: 1
+      - path: node_collider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: node_collider_scale
+      takeName: extendFins_001
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/base
+        weight: 1
+      - path: Armature/base/fin1-b
+        weight: 1
+      - path: Armature/base/fin1-b/fin1-i
+        weight: 1
+      - path: Armature/base/fin1-b/fin1-i/fin1
+        weight: 1
+      - path: Armature/base/fin2-b
+        weight: 1
+      - path: Armature/base/fin2-b/fin2-i
+        weight: 1
+      - path: Armature/base/fin2-b/fin2-i/fin2
+        weight: 1
+      - path: Armature/base/fin3-b
+        weight: 1
+      - path: Armature/base/fin3-b/fin3-i
+        weight: 1
+      - path: Armature/base/fin3-b/fin3-i/fin3
+        weight: 1
+      - path: Armature/base/fin4-b
+        weight: 1
+      - path: Armature/base/fin4-b/fin4-i
+        weight: 1
+      - path: Armature/base/fin4-b/fin4-i/fin4
+        weight: 1
+      - path: Armature/base/fin5-b
+        weight: 1
+      - path: Armature/base/fin5-b/fin5-i
+        weight: 1
+      - path: Armature/base/fin5-b/fin5-i/fin5
+        weight: 1
+      - path: Armature/base/fin6-b
+        weight: 1
+      - path: Armature/base/fin6-b/fin6-i
+        weight: 1
+      - path: Armature/base/fin6-b/fin6-i/fin6
+        weight: 1
+      - path: Armature/base/fin7-b
+        weight: 1
+      - path: Armature/base/fin7-b/fin7-i
+        weight: 1
+      - path: Armature/base/fin7-b/fin7-i/fin7
+        weight: 1
+      - path: Armature/base/fin8-b
+        weight: 1
+      - path: Armature/base/fin8-b/fin8-i
+        weight: 1
+      - path: Armature/base/fin8-b/fin8-i/fin8
+        weight: 1
+      - path: cooling-fins
+        weight: 1
+      - path: cooling-fins_001
+        weight: 1
+      - path: cooling-fins_002
+        weight: 1
+      - path: cooling-fins_003
+        weight: 1
+      - path: cooling-fins_004
+        weight: 1
+      - path: cooling-fins_005
+        weight: 1
+      - path: cooling-fins_006
+        weight: 1
+      - path: cooling-fins_007
+        weight: 1
+      - path: generator
+        weight: 1
+      - path: node_collider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: extendFinsOnly
+      takeName: extendFinsOnly
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/base
+        weight: 1
+      - path: Armature/base/fin1-b
+        weight: 1
+      - path: Armature/base/fin1-b/fin1-i
+        weight: 1
+      - path: Armature/base/fin1-b/fin1-i/fin1
+        weight: 1
+      - path: Armature/base/fin2-b
+        weight: 1
+      - path: Armature/base/fin2-b/fin2-i
+        weight: 1
+      - path: Armature/base/fin2-b/fin2-i/fin2
+        weight: 1
+      - path: Armature/base/fin3-b
+        weight: 1
+      - path: Armature/base/fin3-b/fin3-i
+        weight: 1
+      - path: Armature/base/fin3-b/fin3-i/fin3
+        weight: 1
+      - path: Armature/base/fin4-b
+        weight: 1
+      - path: Armature/base/fin4-b/fin4-i
+        weight: 1
+      - path: Armature/base/fin4-b/fin4-i/fin4
+        weight: 1
+      - path: Armature/base/fin5-b
+        weight: 1
+      - path: Armature/base/fin5-b/fin5-i
+        weight: 1
+      - path: Armature/base/fin5-b/fin5-i/fin5
+        weight: 1
+      - path: Armature/base/fin6-b
+        weight: 1
+      - path: Armature/base/fin6-b/fin6-i
+        weight: 1
+      - path: Armature/base/fin6-b/fin6-i/fin6
+        weight: 1
+      - path: Armature/base/fin7-b
+        weight: 1
+      - path: Armature/base/fin7-b/fin7-i
+        weight: 1
+      - path: Armature/base/fin7-b/fin7-i/fin7
+        weight: 1
+      - path: Armature/base/fin8-b
+        weight: 1
+      - path: Armature/base/fin8-b/fin8-i
+        weight: 1
+      - path: Armature/base/fin8-b/fin8-i/fin8
+        weight: 1
+      - path: cooling-fins
+        weight: 1
+      - path: cooling-fins_001
+        weight: 1
+      - path: cooling-fins_002
+        weight: 1
+      - path: cooling-fins_003
+        weight: 1
+      - path: cooling-fins_004
+        weight: 1
+      - path: cooling-fins_005
+        weight: 1
+      - path: cooling-fins_006
+        weight: 1
+      - path: cooling-fins_007
+        weight: 1
+      - path: generator
+        weight: 1
+      - path: node_collider
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
